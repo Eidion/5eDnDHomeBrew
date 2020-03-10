@@ -84,7 +84,7 @@ Larger creatures often have more body types than identified in the previous sect
 
 These body parts have their own portion of the creature's HP total.  When attacked, the body parts suffer damage, as does the creature as a whole.  When a body part's HP is reduced to 0, any associated special attacks or abilities are unable to be used.
 
-\page
+
 
 The Dungeon Master should explain the body parts and the special attacks to the players based off of what their characters can see and observe.
 
@@ -141,11 +141,6 @@ the hostile creature, or disadvantage if it is smaller. If
 the mover wins the contest, it can move through the
 hostile creature's space once this turn.
 
-<br> 
-<br> <br>
-<br> <br>
-<br> <br>
-
 ### Shove Aside
 With this option, a creature uses the special shove
 attack (https://www.dndbeyond.com/sources/basic-rules/combat#ShovingaCreature) from the Basic Rules to force a target
@@ -167,7 +162,7 @@ once this turn.
 
 
 
-\page
+
 ## Morale Checks
 Morale Checks are Wisdom checks that NPCs make when threatened.  It represents the NPC having the heart, focus, or training to keep fighting in the face of a real threat.
 
