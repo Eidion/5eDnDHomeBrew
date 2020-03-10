@@ -12,10 +12,9 @@ Small humanoid (goblinoid), neutral evil
 
 **Speed** 30 ft.
 
-
-STR 8 (-1) DEX 14 (+2) CON 10 (+0) 
-
-INT 10 (+0) WIS 8 (-1) CHA 8 (-1)
+STR | DEX | CON | INT | WIS | CHA| 
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+8 (-1) | DEX 14 (+2) | CON 10 (+0) | INT 10 (+0) | WIS 8 (-1) | CHA 8 (-1)
 
 **Skills** Stealth +6
 
@@ -44,9 +43,9 @@ Small humanoid (goblinoid), neutral evil
 **Speed** 30 ft.
 
 
-STR 8 (-1) DEX 14 (+2) CON 10 (+0) 
-
-INT 10 (+0) WIS 8 (-1) CHA 8 (-1)
+STR | DEX | CON | INT | WIS | CHA| 
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+8 (-1) | DEX 14 (+2) | CON 10 (+0) | INT 10 (+0) | WIS 8 (-1) | CHA 8 (-1)
 
 **Skills** Stealth +6
 
