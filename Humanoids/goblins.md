@@ -6,7 +6,7 @@
 
 Small humanoid (goblinoid), neutral evil
 
-**Armor Class 15** (Leather Armor, Shield)
+**Armor Class** 15 (Leather Armor, Shield)
 
 **Hit Points** 7 (2d6)
 
@@ -37,7 +37,7 @@ INT 10 (+0) WIS 8 (-1) CHA 8 (-1)
 
 Small humanoid (goblinoid), neutral evil
 
-**Armor Class 15** (Leather Armor, Shield)
+**Armor Class** 15 (Leather Armor, Shield)
 
 **Hit Points** 14 (4d6)
 
