@@ -1,6 +1,6 @@
 # Goblins
 
-
+![Image of Goblin](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/351/218/315/636252777818652432.jpeg)
 
 ## Goblin
 
