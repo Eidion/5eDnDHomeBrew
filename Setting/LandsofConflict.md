@@ -1,4 +1,32 @@
-# Lands of Conflict Review
+# Lands of Conflict Setting Summary
+
+## Classes
+
+### Barbarians
+
+### Bards
+
+### Clerics
+
+### Druids
+
+"Druids" are an official title, like Priest or Bishop, that are given to the priests of the Old Ways.
+
+*(Druids are not a playable class; use a Cleric of the Nature Domain instead)*
+
+### Fighters
+
+### Monks
+
+### Paladins
+
+### Rangers
+
+### Sorcerers
+
+### Warlocks
+
+### Wizards
 
 ## Cultures
 

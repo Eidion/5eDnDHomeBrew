@@ -4,8 +4,6 @@
 
 Instead of martial warrior goblinoids, what if hobgoblins were lazy loners who were fond of ale and wore sportish hats?
 
-
-
 ## Hobgoblin Layabout
 
 Medium humanoid (goblinoid), neutral evil
