@@ -12,7 +12,7 @@
 * Plains, forests, hills
 * Farming communities, trading cities, a few large castle towns
 
-# The Borderlands
+## The Borderlands
 
 * Area that is between the Storm Crags and the Heartland
 * Broken hills and mountains, dangerous forests
