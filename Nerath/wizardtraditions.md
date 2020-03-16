@@ -1,6 +1,6 @@
 # Wizard Traditions
 
-## Golden Wyvern Tradition
+## Golden Wyvern Initiates
 
 * The Golden Wyverns were the Nerath Legion's most well regarded war-wizard division.
 * While they used powerful battle magic, they also taught control - they worked well with the front lines, able to weave their area spells to not damage allies.
@@ -25,7 +25,7 @@ Starting at 14th level, you can increase the power of your simpler spells. When 
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
 
-## Emerald Orb Tradition
+## Order of the Emerald Orb
 
 * The Emerald Orb is began as an ascetic tradition focused on understanding the mysteries of arcane magic.  
 * They focused on the less physical manifestations of magic, and on using magic to hinder and bind, more than destroy.
@@ -35,16 +35,16 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 * Members of the organization consider the others traitors or pretenders.
 
 
-## Silver Order Tradition
+## Greystone Conservatory
 
-* The Silver Order tradition is a newer tradition, having been founded after the fall of Nerath.
+* The Greystone Conservatory tradition is a newer tradition, having been founded after the fall of Nerath.
 * In the chaos of the collapse, wizards and scholars from the imperial university came together to try to protect as much of the learning as possible.
 * They secreted many books and scrolls to a fortress on a snowy magical peak, and christened their new order.
 * Wizards were sent out by the order to gather old books and treasures, as well as to investigate what was going on in the world.  Over time, they began building chapter houses in cities to share the knowledge that they had hoarded.
-* Through this process, the Silver Order began to focus on protective and support magic, the better to serve their communities.
+* Through this process, the Greystone Conservatory began to focus on protective and support magic, the better to serve their communities.
 
 
-## Hedgemage Tradition
+## Hedgemages
 
 * Hedgemages lack a specific tradition, but instead have learned unorthodox styles of magic.
 * While many members of more formal traditions look down on hedgemages, the fact is that hedgemages often innovate and develop techniques that are beyond what more ancient traditions are capable of.
