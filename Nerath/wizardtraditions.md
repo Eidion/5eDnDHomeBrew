@@ -1,5 +1,7 @@
 # Wizard Traditions
 
+In the setting of Nerath, many wizards do not cling to specific schools of magic as the focus and boundaries of study.  Instead, they belong to arcane orders with specific teachings, history, and goals.  Each of these orders confers specific magical techniques
+
 ## Golden Wyvern Initiates
 
 * The Golden Wyverns were the Nerath Legion's most well regarded war-wizard division.
