@@ -45,6 +45,8 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 * Wizards were sent out by the order to gather old books and treasures, as well as to investigate what was going on in the world.  Over time, they began building chapter houses in cities to share the knowledge that they had hoarded.
 * Through this process, the Greystone Conservatory began to focus on protective and support magic, the better to serve their communities.
 
+### Spellbook Savant
+Beginning when you select this tradition at 2nd level, the gold and time you must spend to copy a spell into your spellbook is halved.
 
 ## Hedgemages
 
