@@ -1,7 +1,18 @@
+# Probably in to the session 
+
+## A forgotten shrine
+
+More of an RP encounter, a shrine that could be restored and cared for to get a divine blessing.
+
+## Mad Treant
+
+A treant who has been burned and is at half HP.  It is enraged.  The party can try to calm it down, or give it what mercy they can
+
 ## Slavers
 
 A group of bugbears are out collecting victims, and taking them back to a war camp of hobgoblins and ogres.  The party could fight off the bugbears, and then decide to warn a nearby village about the slavers, and possibly decide to defend against them.
 
+# Still a maybe...
 ## Ettercaps
 
 An ettercap and its three giant spider buddies have webbed part of the forest, making it hard to get through.  They attack the party with some hit and run tactics.  The party can try to kill them out right, can try to track them to the lair, or try to rush through.
@@ -22,9 +33,6 @@ This seems to work well with a forest area that used to be tied to ancient elves
 
 Someone killed in the battle that locked the ancient keep up.
 
-## A forgotten shrine
-
-More of an RP encounter, a shrine that could be restored and cared for to get a divine blessing.
 
 ## Owl Druid
 
@@ -33,10 +41,6 @@ An orcish owl druid will visit them.  Curious about what is going on.  Can give 
 ## Elven Scouts
 
 Perhaps the elves are the target of the slave raids.  They perhaps need help
-
-## Mad Treant
-
-A treant who has been burned and is at half HP.  It is enraged.  The party can try to calm it down, or give it what mercy they can
 
 ## Lost Child
 
