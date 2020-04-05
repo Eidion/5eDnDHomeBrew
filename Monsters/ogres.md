@@ -4,7 +4,6 @@
 
 ## Ogre Dreadnaught
 
-![Image of Dreadnaught](https://i.pinimg.com/originals/88/c2/2c/88c22cbb5ef13a755bf4cd14031c8a6a.jpg)
 
 Large Giant, neutral evil
 
