@@ -43,7 +43,7 @@ You gain blind sense 30 feet, and are able to, as an action, expend a spell slot
 You gain immunity to fire damage.  In addition, you gain the ability to shape earth to create tunnels through earth and stone as part of your movement.  These tunnels last for 1 minute after you create them, and fill in without causing disruption to the terrain around them.  Further, you and any allies within 30 feet of you are unable to be knocked prone.
 
 ## Conditions
-	# New Condition - Slowed
+**Slowed**
 	* Creature's total movement is reduced by half.
 	* Creature's remaining movement that turn is reduced by half.
 	* By default, lasts until beginning of next turn.
