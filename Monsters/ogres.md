@@ -35,3 +35,8 @@ STR | DEX | CON | INT | WIS | CHA|
 
 **Greatsword.** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: (3d6 + 4) slashing damage.
 
+### Description
+
+Ogre dreadnaughts are specialty trained by the Magelord Kretesh - clad in black steel armor dug from the mines underneath the Magelord's palace and armed with massive greatswords, they are further gifted sashes of Spell Resistance to protect them from magical attacks.
+
+While they are given special training, they are still ogres, and so are paired with hobgoblin captains or handlers to instruct them in battle.  If a dreadnaught does not have an authority figure, it will fight like an ogre - including exploding in to a tantrum and fighting in a rage.
