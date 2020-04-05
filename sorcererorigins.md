@@ -44,7 +44,8 @@ You gain immunity to fire damage.  In addition, you gain the ability to shape ea
 
 ## Conditions
 **Slowed**
-	* Creature's total movement is reduced by half.
-	* Creature's remaining movement that turn is reduced by half.
-	* By default, lasts until beginning of next turn.
+
+* Creature's total movement is reduced by half.
+* Creature's remaining movement that turn is reduced by half.
+* By default, lasts until beginning of next turn.
 
