@@ -1,7 +1,17 @@
 # Elemental Sorcerer Origins
 
+**What are we doing here?**  
+
+I like sorcerers as a class - less spells, more flexibility in casting, cool flavorful backgrounds, and the power within all create a neat story and mechanical element that I am drawn to, and have been since I cracked open a 3.0 PHB.
+
+*However*, I'm not a huge fan of a lot of the origins.  I can get an appreciate the idea of having Dragons, Celestials, Fiends/Shadows as backgrounds - the Big Monsters in D&D intermingling with humanoid powers through blood rituals or other strange things are definitely cool.  But there are a lot of others I am not so keen on.  In general, I like the sorcerer as a "themed" spellcaster, almost like how clerics are built around domains.  And while Dragons and company are cool, I often find myself more pulled to Storm sorcerers or things like that.  I like the decision of "Are you going to be a Fire, Ice, or Storm mage?" in terms of theme - to flesh out the Elemental-type origin in to more types.
+
+These are all based on the Storm Sorcery origin.
+
+I also think that there are more supernatural origins, like Fae - but that is another doc.
+
 ## Winter's Grasp
-Lore Summary: Tends to be tied to fey or elemental spirits.  Perfect for a follower of Elemental Evil, or the Winter Court.
+Lore Summary: Gained elemental power from the Faewild, Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or the Winter Court.
 
 
 ### Level 1 - Snow Speaker
@@ -13,19 +23,20 @@ You can use a bonus action to create an area of freezing cold, immediately befor
 ### Level 6 - Heart of Winter 
 You gain resistance to cold damage.  Whenever you cast a spell other than a cantrip that deals cold damage, a blast of winter chill surrounds you.  In addition to the spell's effects, creatures of your choice within 10 feet of the spell's target are slowed until the end of their next turn.
 
-### Level 6 - Frost Guide 
-As "Storm Guide" ability, with the added ability to control snow as well as rain.  Also gains Icewalk.
+### Level 6 - Ice Walk
+You can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
 
 ### Level 14 - Fury of Frost 
-When you are hit by a melee attack, you can use a reaction to encase yourself in ice.  You gain resistance to the attack, and the attacker must make a Strength saving throw equal to 8 + Charisma + Prof.  On a failed save, they are incapacitated until the beginning of your next turn.
+When you are hit by a melee attack, you can use a reaction to encase yourself in ice.  You gain resistance to the attack, and the attacker must make a Strength saving throw equal to 8 + Charisma + Prof.  On a failed save, gain disadvantage on weapons attacks until the beginning of your next turn.
 
 ### Level 18 - Soul of Winter 
 You gain immunity to cold damage.  In addition, you gain a +3 bonus to AC and resistance against non-magical weapons due to a layer of ice that you can have cover your body (which lasts until dismissed and takes a bonus action to create).   As an action, you can reduce your bonus to AC from this ability to +1, and choose a number of creatures within 30 feet of you equal to 3 + your charisma modifier.  The chosen creatures get a +1 bonus to AC for 1 hour, and resistance against non-magical weapons. 
 	
 ## Earthen Heart
+Lore Summary: Gained elemental power from the Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or someone who was exposed a magical leyline tied with the earth.  Possibly a volcano sacrifice who survived the process!
 
 ### Level 1 - Fire Tongue 
-The arcane magic you command is infused with elemental earth and fire.  You can speak, read, and write primordial.
+The arcane magic you command is infused with elemental earth and fire.  You can speak, read, and write Primordial.
 
 ### Level 1 - Magma Armor 
 You can use a bonus action to create armor of earth and fire around you, immediately before or after you cast a spell of 1st level or higher.  This armor gives targets disadvantage to attack you, and they take 1d10 + your sorcerer level damage if they are able to successfully hit you in melee.  This effect lasts until the end of your next turn.
