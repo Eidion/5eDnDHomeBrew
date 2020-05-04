@@ -3,7 +3,7 @@
 
 
 
-## Winterborne
+## Winterborn
 Lore Summary: Gained elemental power from the Faewild, Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or the Winter Court.
 
 
