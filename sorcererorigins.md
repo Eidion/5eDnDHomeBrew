@@ -7,22 +7,22 @@
 Lore Summary: Gained elemental power from the Faewild, Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or the Winter Court.
 
 
-### Level 1 - Frost Speaker
+### Wintery Whispers
 The arcane magic you command is infused with elemental cold.  You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
 
-### Level 1 - Icy Grasp
+### Icy Grasp
 Starting at 1st level, you can use a bonus action to create a 10 foot square area of ice and snow centered on a point you can see within 30 feet of you, immediately before or after you cast a spell of 1st level or higher.  This area is difficult terrain.  The area last until the beginning of your next turn.
 
-### Level 6 - Heart of Winter 
+### Heart of Winter 
 At 6th level, you gain resistance to cold damage.  Whenever you cast a spell other than a cantrip that deals cold damage, a blast of winter chill surrounds you.  In addition to the spell's effects, creatures of your choice within 10 feet of the spell's target have their speed halved until the beginning of your next turn.
 
-### Level 6 - Ice Walk
+### Ice Walk
 At 6th level, you can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
 
-### Level 14 - Frost Backlash
+### Frost Backlash
 Starting at 14th level, when you are hit by a melee attack, you can use a reaction to block the attack with ice.  You gain resistance to the attack, and the attacker must make a Strength saving throw equal to 8 + Charisma + Prof.  On a failed save, the weapon (including natural weapons) that was used to attack you is covered in ice, and cannot be used to make an attack until the end of your attacker's next turn.
 
-### Level 18 - Soul of Winter 
+### Soul of Winter 
 At 18th level, you gain immunity to cold damage.  
 
 In addition, as a bonus action or a reaction to being attacked, you can cover your body with a protective layer of ice.  When you do so and aren't wearing armor, your AC equals 15 + your Dexterity modifier.  If you are wearing armor, you add an additional +1 to either your armored AC or your unarmored AC, whichever would be higher.
