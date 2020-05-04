@@ -58,7 +58,7 @@ You gain immunity to fire damage.  In addition, you gain the ability to shape ea
 
 **Change Log**
 
-Cold Archtype Changes:  
+[Major Changes to Cold Archtype](https://github.com/Eidion/5eDnDHomeBrew/commit/98f0c5a74c7761b1e098cea43d73b45100e76c7d#diff-04ab488799beee883ad2909258c816f3)
 
 Earth Archtype Changes:
 
