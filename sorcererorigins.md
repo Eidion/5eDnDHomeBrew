@@ -39,7 +39,7 @@ Lore Summary: Gained elemental power from the Elemental Chaos, or as part of an 
 The arcane magic you command is infused with elemental earth and fire.  You can speak, read, and write Primordial.
 
 ### Level 1 - Magma Armor 
-You can use a bonus action to create armor of earth and fire around you, immediately before or after you cast a spell of 1st level or higher.  This armor gives targets disadvantage to attack you, and they take 1d10 + your sorcerer level damage if they are able to successfully hit you in melee.  This effect lasts until the end of your next turn.
+You can use a bonus action to create armor of earth and fire around you, immediately before or after you cast a spell of 1st level or higher.  This armor gives targets disadvantage to attack you, and they take 1d10 + your sorcerer level fire damage if they are able to successfully hit you in melee.  This effect lasts until the end of your next turn.
 
 ### Level 6 - Burning Spirit 
 You gain resistance to fire damage.  Whenever you cast a spell other than a cantrip that deals fire damage, you are able to imbue it shards of obsidian stone; the spell does additional slashing, bludgeoning, or piercing (your choice) damage equal to half your sorcerer level.
