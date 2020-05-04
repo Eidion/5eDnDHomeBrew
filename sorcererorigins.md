@@ -3,37 +3,33 @@
 
 
 
-## Winter's Grasp
+## Winterborne
 Lore Summary: Gained elemental power from the Faewild, Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or the Winter Court.
 
 
-### Level 1 - Snow Speaker
-The arcane magic you command is infused with elemental cold.  You can speak, read, and write Primordial.
+### Level 1 - Cold Council
+The arcane magic you command is infused with elemental cold.  You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
 
-### Level 1 - Winter's Grasp 
-You can use a bonus action to create an area of freezing cold, immediately before or after you cast a spell of 1st level or higher.  This area has a radius of 10 feet, and creatures that start their turn in the area or enter the area on their turn are slowed.  This area lasts until the beginning of your next turn.
+### Level 1 - Icy Grasp
+Starting at 1st level, you can use a bonus action to create a 10 foot square area of ice and snow centered on a point you can see within 30 feet of you, immediately before or after you cast a spell of 1st level or higher.  This area is difficult terrain.  The area last until the beginning of your next turn.
 
 ### Level 6 - Heart of Winter 
-You gain resistance to cold damage.  Whenever you cast a spell other than a cantrip that deals cold damage, a blast of winter chill surrounds you.  In addition to the spell's effects, creatures of your choice within 10 feet of the spell's target are slowed until the end of their next turn.
+At 6th level, you gain resistance to cold damage.  Whenever you cast a spell other than a cantrip that deals cold damage, a blast of winter chill surrounds you.  In addition to the spell's effects, creatures of your choice within 10 feet of the spell's target have their speed halved until the beginning of your next turn.
 
 ### Level 6 - Ice Walk
-You can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
+At 6th level, you can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
 
-### Level 14 - Fury of Frost 
-When you are hit by a melee attack, you can use a reaction to encase yourself in ice.  You gain resistance to the attack, and the attacker must make a Strength saving throw equal to 8 + Charisma + Prof.  On a failed save, the attacker suffers disadvantage on weapons attacks until the beginning of their next turn.
+### Level 14 - Frost Backlash
+Starting at 14th level, when you are hit by a melee attack, you can use a reaction to block the attack with ice.  You gain resistance to the attack, and the attacker must make a Strength saving throw equal to 8 + Charisma + Prof.  On a failed save, the weapon (including natural weapons) that was used to attack you is covered in ice, and cannot be used to make an attack until the end of your attacker's next turn.
 
 ### Level 18 - Soul of Winter 
-You gain immunity to cold damage.  In addition, you gain a +3 bonus to AC and resistance against non-magical weapons due to a layer of ice that you can have cover your body (which lasts until dismissed and takes a bonus action to create).   As an action, you can reduce your bonus to AC from this ability to +1, and choose a number of creatures within 30 feet of you equal to 3 + your charisma modifier.  The chosen creatures get a +1 bonus to AC for 1 hour, and resistance against non-magical weapons. 
+At 18th level, you gain immunity to cold damage.  
 
-## Conditions
-**Slowed**
+In addition, as a bonus action or a reaction to being attacked, you can cover your body with a protective layer of ice.  When you do so and aren't wearing armor, your AC equals 15 + your Dexterity modifier.  If you are wearing armor, you add an additional +1 to either your armored AC or your unarmored AC, whichever would be higher.
 
-* Creature's total movement is reduced by half.
-* Creature's remaining movement that turn is reduced by half.
-* By default, lasts until beginning of next turn.
+In addition, as a bonus action you can spread ice to the ground around you, making all terrain adjacent to you difficult terrain for creatures of your choosing.  Creatures who are in this terrain also suffer disadvantage to attacks.  This terrain moves with you, and persists as long as you are conscious, or until you use a bonus action to dismiss it.
 
 
-```
 
 
 ## Earthen Heart
@@ -58,7 +54,14 @@ You gain blind sense 30 feet, and are able to, as an action, expend a spell slot
 You gain immunity to fire damage.  In addition, you gain the ability to shape earth to create tunnels through earth and stone as part of your movement.  These tunnels last for 1 minute after you create them, and fill in without causing disruption to the terrain around them.  Further, you and any allies within 30 feet of you are unable to be knocked prone.
 
 
-\page
+
+
+**Change Log**
+
+Cold Archtype Changes:  
+
+Earth Archtype Changes:
+
 **What are we doing here?**  
 
 I like sorcerers as a class - less spells, more flexibility in casting, cool flavorful backgrounds, and the power within all create a neat story and mechanical element that I am drawn to, and have been since I cracked open a 3.0 PHB.
@@ -68,4 +71,5 @@ I like sorcerers as a class - less spells, more flexibility in casting, cool fla
 These are all based on the Storm Sorcery origin.
 
 I also think that there are more supernatural origins, like Fae - but that is another doc.
+
 
