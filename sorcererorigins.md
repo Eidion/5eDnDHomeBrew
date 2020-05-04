@@ -7,7 +7,7 @@
 Lore Summary: Gained elemental power from the Faewild, Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or the Winter Court.
 
 
-### Level 1 - Cold Council
+### Level 1 - Frost Speaker
 The arcane magic you command is infused with elemental cold.  You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
 
 ### Level 1 - Icy Grasp
