@@ -8,9 +8,6 @@ Your innate magic comes from the power of elemental cold. Many with this power w
 
 Winterborn sorcerers are at home in cold climates, where their abilities help them survive the harsh weather.  But even in warmer elements, they are able to leverage their magic to hinder enemies with snow and freezing cold.
 
-#### Change Notes
-[Major Changes to Cold Archtype](https://github.com/Eidion/5eDnDHomeBrew/commit/98f0c5a74c7761b1e098cea43d73b45100e76c7d#diff-04ab488799beee883ad2909258c816f3)
-
 
 ### Wintery Whispers
 The arcane magic you command is infused with elemental cold.  You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
@@ -35,14 +32,8 @@ In addition, as a bonus action or a reaction to being attacked, you can cover yo
 In addition, as a bonus action you can spread ice to the ground around you, making all terrain adjacent to you difficult terrain for creatures of your choosing.  Creatures who are in this terrain also suffer disadvantage to attacks.  This terrain moves with you, and persists as long as you are conscious, or until you use a bonus action to dismiss it.
 
 
-
-
 ## Earthen Heart
 Lore Summary: Gained elemental power from the Elemental Chaos, or as part of an elemental heritage.  Perfect for a follower of Elemental Evil, or someone who was exposed a magical leyline tied with the earth.  Possibly a volcano sacrifice who survived the process!
-
-#### Change Notes
-No major recent changes
-
 
 ### Earth Speaker
 The arcane magic you command is infused with elemental earth.  You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
@@ -68,8 +59,14 @@ Further, you and any allies within 30 feet of you are unable to be knocked prone
 
 I like sorcerers as a class - less spells, more flexibility in casting, cool flavorful backgrounds, and the power within all create a neat story and mechanical element that I am drawn to, and have been since I cracked open a 3.0 PHB.
 
-*However*, I'm not a huge fan of a lot of the origins.  I can get and appreciate the idea of having Dragons, Celestials, Fiends/Shadows as backgrounds - the Big Monsters in D&D intermingling with humanoid powers through blood rituals or other strange things are definitely cool.  But there are a lot of others I am not so keen on.  In general, I like the sorcerer as a "themed" spellcaster, almost like how clerics are built around domains.  And while Dragons and company are cool, I often find myself more pulled to Storm sorcerers or things like that.  I like the decision of "Are you going to be a Fire, Ice, or Storm mage?" in terms of theme - to flesh out the Elemental-type origin in to more types.
+*However*, I'm not a huge fan of a lot of the origins.  I can get and appreciate the idea of having Dragons, Celestials, Fiends/Shadows as backgrounds - the Big Monsters in D&D intermingling with humanoid powers through blood rituals or other strange things are definitely cool.  But there are a lot of others I am not so keen on.  
+
+In general, I like the sorcerer as a "themed" spellcaster, almost like how clerics are built around domains.  And while Dragons and company are cool, I often find myself more pulled to Storm sorcerers or things like that.  I like the decision of "Are you going to be a Fire, Ice, or Storm mage?" in terms of theme - to flesh out the Elemental-type origin in to more types.
 
 These are all based on the Storm Sorcery origin.
 
 I also think that there are more supernatural origins, like Fae - but that is another doc.
+
+#### Change Notes
+[Major Changes to Cold Archtype](https://github.com/Eidion/5eDnDHomeBrew/commit/98f0c5a74c7761b1e098cea43d73b45100e76c7d#diff-04ab488799beee883ad2909258c816f3)
+
